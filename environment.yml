@@ -1,7 +1,8 @@
-name: cs197lec2
+name: /Users/raghavrama/Desktop/MlOps/github_repo_exploration/python-practice/myenv
 channels:
   - defaults
 dependencies:
-  - python=3.9
+  - python=3.10
   - tqdm
-prefix: /Users/raghavrama/miniconda3/envs/cs197lec2
+  - pandas
+prefix: /Users/raghavrama/Desktop/MlOps/github_repo_exploration/python-practice/myenv
